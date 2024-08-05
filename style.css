@@ -1,0 +1,21 @@
+.wrapper {
+  height: 20vh;
+  width: 50vw;
+  background-color: burlywood;
+  border: 1px solid black;
+  margin: auto;
+  text-align: center;
+  padding-top: 1rem;
+}
+.wrapper--text {
+  width: 400px;
+  height: 28px;
+  padding: 0;
+  margin: 0;
+}
+.wrapper--button {
+  padding: 0;
+  margin: 0;
+  width: 5rem;
+  height: 2rem;
+}/*# sourceMappingURL=style.css.map */
